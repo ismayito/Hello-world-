@@ -11,11 +11,9 @@
   - [Usage](#usage)
 - [👥 Author](#author)
 
-# 📖 [your_project_name] <a name="about-project">Hello-world microverse project</a>
+# 📖 Hello-world microverse project
 
-> Describe your project in 1 or 2 sentences.
-
-**[your_project__name]** is a Hello-world microverse project
+this is a Hello-world microverse project that shows its heading
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -76,6 +74,12 @@ To run the project, execute the following command:
 - Twitter: [@twitterhandle](https://twitter.com/@IsmailMayito)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/mayito-ismail-2b0067178/)
 
+🔭 Future Features
+
+- Hero section
+- Footer section
+- Call to action section
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
@@ -85,3 +89,8 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
+
+📝 License
+This project is MIT licensed.
+
+NOTE: we recommend using the MIT license - you can set it up quickly by using templates available on GitHub. You can also use any other license if you wish.
